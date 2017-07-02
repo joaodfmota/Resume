@@ -40,7 +40,8 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 - [Audaces](http://www.audaces.com) Convert PSD to WordPress
 - [Diálogo Logística](http://dialogologistica.com.br) Convert AI to WordPress
 - [Customize](http://customize.tekoa.floripa.br/) Convert AI to Wordpress ** Under development
-Others projects are private
+- Others projects are private
+
 ### Apps
 - [Sodexo](https://www.microsoft.com/pt-br/store/p/sodexo/9pgd5p7qw9xv) Windows App for check balance for sodexo cards
 
