@@ -27,13 +27,26 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 | --- |
 | *Sept 2016 – Present* |
 | [Website company](http://www.tekoa.com.br) |
-| We work with Wordpress, using SASS preprocessor and Gulp. |
+| We work with WordPress, using SASS preprocessor and Gulp. |
 | My job is to bring design to life working in conjunction with designer, improving interfaces, create new websites |
+
+| Useall, Brazil -- (ERP Implementation) |
+| --- |
+| *Out 2013 – Nov 2015 |
+| [Website company](http://www.useall.com.br) |
+
+## Projects
+### Websites
+- [Audaces](http://www.audaces.com) Convert PSD to WordPress
+- [Diálogo Logística](http://dialogologistica.com.br) Convert AI to WordPress
+- [Customize](http://customize.tekoa.floripa.br/) Convert AI to Wordpress ** Under development
+Others projects are private
+### Apps
+- [Sodexo](https://www.microsoft.com/pt-br/store/p/sodexo/9pgd5p7qw9xv) Windows App for check balance for sodexo cards
 
 ## Education
 
-2009 – 2012
-
-Bachelors Degree in Computer Science
-
-Unifacvest, Brazil
+| Unifacvest, Brazil|
+| --- |
+| 2009 – 2012 |
+| Bachelors Degree in Computer Science |
