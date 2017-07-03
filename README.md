@@ -30,6 +30,11 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 | We work with WordPress, using SASS preprocessor and Gulp. |
 | My job is to bring design to life working in conjunction with designer, improving interfaces, create new websites |
 
+| Freelancer -- (FullStack Developer) |
+| --- |
+| Nov 2015 – Sept 2016 |
+| [Freelancer Profile](https://www.freelancer.com/u/joaodfmota.html) |
+
 | Useall, Brazil -- (ERP Implementation) |
 | --- |
 | *Out 2013 – Nov 2015 |
@@ -38,6 +43,7 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 ## Projects
 ### Websites
 - [Audaces](http://www.audaces.com) Convert PSD to WordPress
+- [Likluc](http://likluc.com.br) Convert AI to WordPress with Woocommerce 
 - [Diálogo Logística](http://dialogologistica.com.br) Convert AI to WordPress
 - [Customize](http://customize.tekoa.floripa.br/) Convert AI to Wordpress ** Under development
 - Others projects are private
