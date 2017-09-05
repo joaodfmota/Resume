@@ -9,7 +9,7 @@ Github: [ Check profile ](http://www.github.com/joaodfmota)
 
 I'm a front-end developer based in Brazil, working for a company based in Florianópolis.
 
-I've been working as a developer (designer/programmer) since 2015, initially creating layout for websites and a little back-end programmer and then, developing rich visual websites with focus in front-end.
+I've been working as a developer (designer/programmer) since 2015, initially creating layouts for websites and a doing some little backend code and then, developing rich visual websites with a focus in front-end using modern tools optimizing my workflow and code organization.
 
 - html5, cross-browser development
 - css3, sass, and styles for pre-processors ( ♥ sass )
