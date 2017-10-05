@@ -45,7 +45,7 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 - [Audaces](http://www.audaces.com) Convert PSD to WordPress
 - [Likluc](http://likluc.com.br) Convert AI to WordPress with Woocommerce
 - [Diálogo Logística](http://dialogologistica.com.br) Convert AI to WordPress
-- [Customize](http://customize.life/) Convert AI to Wordpress ** Under development
+- [Customize](http://customize.life/) Convert AI to Wordpress
 - Others projects are private
 
 ### Apps
