@@ -7,13 +7,13 @@ Github: [ Check profile ](http://www.github.com/joaodfmota)
 
 ## Overview
 
-I'm a front-end developer based in Brazil, working for a company based in Florianópolis.
+I'm a front-end developer based in Brazil, working for a digital marketing company based in Florianópolis.
 
-I've been working as a developer (designer/programmer) since 2015, initially creating layouts for websites and a doing some little backend code and then, developing rich visual websites with a focus in front-end using modern tools optimizing my workflow and code organization.
+I've been working as a developer since 2015, initially creating layouts for websites and a doing some backend code and then, developing rich visual websites with a focus in front-end using modern tools optimizing my workflow and code organization.
 
 - html5, cross-browser development
-- css3, sass, and styles for pre-processors ( ♥ sass )
-- jquery, node, nunjucks
+- css3, and sass for styles pre-processors ( ♥ )
+- javascript, jquery, node, nunjucks
 - [ Visual Studio Code ](https://github.com/Microsoft/vscode) is my favorite editor
 - gulp for task managers
 
@@ -27,7 +27,7 @@ I've been working as a developer (designer/programmer) since 2015, initially cre
 | --- |
 | *Sept 2016 – Present* |
 | [Website company](http://www.tekoa.com.br) |
-| We work with WordPress, using SASS preprocessor and Gulp. |
+| We work with WordPress, using SASS preprocessor and WebPack. |
 | My job is to bring design to life working in conjunction with designer, improving interfaces, create new websites |
 
 | Freelancer -- (FullStack Developer) |
