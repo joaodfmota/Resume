@@ -5,20 +5,18 @@ Email: [joaodfmota@outlook.com](mailto:joaodfmota@outlook.com) <br />
 Linkedin: [ Check profile ](https://www.linkedin.com/in/joaodfmota/) <br />
 Github: [ Check profile ](http://www.github.com/joaodfmota)
 
-## Overview
+## Who am I?
 
-I'm a front-end developer based in Brazil, actually building a social platform for a startup company based in Florianópolis.
+My name is João and I’ve been a developer since I was sixteen. I’ve been active in web development since 2015 when I discovered Private Game Servers.
 
-I've been working as a developer since 2015, initially creating layouts for websites and a doing some backend code and then, developing rich visual websites with a focus in front-end using modern tools optimizing my workflow and code organization.
+Today I live in Florianópolis with my wife. Recently I joined RaiseHands, a technology startup in Florianópolis formed by innovative people who are building a platform for management and relational evolution employee-employer and employee-society. We are trying to increase the transparency of relationships for the whole society, working with scientific means of emotional measurement, results, and management, all leading to follow and manage the powers of entrepreneurship and hard work.
 
-- html5, cross-browser development
-- css3, and sass for styles pre-processors ( ♥ )
-- javascript, node, nunjucks
-- [ Visual Studio Code ](https://github.com/Microsoft/vscode) is my favorite editor
+## Education
 
-♥ HTML
-♥ CSS
-♥ JS
+| Computer Science, Brazil -- (Bachelor's degree) | 
+| --- |
+| 2009 - 2012 |
+| [Website](http://www.unifacvest.net/) |
 
 ## Work Experience
 
@@ -26,14 +24,13 @@ I've been working as a developer since 2015, initially creating layouts for webs
 | --- |
 | *Mar 2018 – Present* |
 | [Website company](https://raisehands.co) |
-| Develop a new platform using Angular, AWS Lambda, DynamoDB. |
+| *Stack:* Angular, AWS Lambda, DynamoDB. |
 
 | Tekoa, Brazil -- (Front-End Developer) |
 | --- |
 | Sept 2016 – Mar 2018 |
 | [Website company](http://www.tekoa.com.br) |
-| We work with WordPress, using SASS preprocessor and WebPack. |
-| My job is to bring design to life working in conjunction with designer, improving interfaces, create new websites |
+| *Stack:* WordPress, Sage, WebPack, Sass |
 
 | Freelancer -- (FullStack Developer) |
 | --- |
@@ -42,7 +39,7 @@ I've been working as a developer since 2015, initially creating layouts for webs
 
 | Useall, Brazil -- (ERP Implementation) |
 | --- |
-| *Out 2013 – Nov 2015 |
+| Out 2013 – Nov 2015 |
 | [Website company](http://www.useall.com.br) |
 
 ## Projects
@@ -51,14 +48,6 @@ I've been working as a developer since 2015, initially creating layouts for webs
 - [Likluc](http://likluc.com.br) Convert AI to WordPress with Woocommerce
 - [Diálogo Logística](http://dialogologistica.com.br) Convert AI to WordPress
 - [Customize](http://customize.life/) Convert AI to Wordpress
-- Others projects are private
 
 ### Apps
 - [Sodexo](https://www.microsoft.com/pt-br/store/p/sodexo/9pgd5p7qw9xv) Windows App for check balance for sodexo cards
-
-## Education
-
-| Unifacvest, Brazil|
-| --- |
-| 2009 – 2012 |
-| Bachelors Degree in Computer Science |
