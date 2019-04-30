@@ -37,3 +37,8 @@ Design Team;
 
 #### Stack
 - Web (WordPress, CSS, JS, SASS, Webpack, HTML, SEO, PHP, Sage)
+
+### Freelancer – Web Developer
+#### Nov 2015 – Sep 2016
+- Developed WordPress and HTML themes based on provided design; 
+- Fix JS and CSS bug’s on multiple platforms (WordPress, Laravel, WooCommerce, etc.);
