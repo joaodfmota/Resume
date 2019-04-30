@@ -17,9 +17,8 @@ I’m a Full Stack Developer with almost 5 years on WordPress and Web Developmen
 
 ## Work Experience
 
-### RaiseHands, Brazil -- (Full Stack Developer)
+### RaiseHands, Brazil -[LINK](https://raisehands.app)- (Full Stack Developer)
 #### Mar 2018 – Present*
-[LINK](https://raisehands.app)
 - Organized the workflow of development and deployment using Azure DevOps;
 - Proposed and applied clean code practices and design patterns to develop readable,
 maintainable and scalable code for web and mobile application;
@@ -30,9 +29,8 @@ maintainable and scalable code for web and mobile application;
 - App (Ionic);
 - Back-End (AWS Lambda with Node.js, DynamoDB, GraphQL, AWS S3, AWS SQS, AWS SNS);
 
-### Tekoa, Brazil -- (Front-End Developer)
+### Tekoa, Brazil -[LINK](http://www.tekoa.com.br)- (Front-End Developer)
 #### Sept 2016 – Mar 2018
-[Website company](http://www.tekoa.com.br)
 - Developed custom themes from scratch based on PSD/AI files provided by
 Design Team;
 - Maintained and customized themes and plugins developed by the company;
