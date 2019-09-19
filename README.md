@@ -20,6 +20,7 @@ I’m a Full Stack Developer with almost 5 years on WordPress and Web Developmen
 |CSS/SASS/PostCSS|4.5 Years|
 |HTML|4.5 Years|
 |React/Angular|2 Years|
+|TypeScript|1 Year|
 |Ionic|1 Year|
 
 
