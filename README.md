@@ -55,7 +55,7 @@ I am a Full Stack Developer with almost five years of experience, closely follow
 
 ### Front-End Developer @ [Freelancer](https://www.freelancer.com/u/joaodfmota), REMOTE/FREELANCER
 #### Nov 2015 – Sep 2016
-- Development of WordPress and static websites based on PSD/AI Files and bug fixes in some platforms.
+- Development of WordPress and static websites based on PSD/AI Files and bug fixes on some platforms.
 - JavaScript, CSS3, HTML5, WordPress
 
 
