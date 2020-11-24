@@ -14,32 +14,38 @@ I am a Full Stack Developer with almost five years of experience, closely follow
 ### Front-End
 | SKILL | TIME |
 |------|-------|
-|JavaScript|4.5 Years|
-|CSS/SASS/PostCSS|4.5 Years|
-|HTML|4.5 Years|
-|React/Angular|2 Years|
-|TypeScript|1 Year|
-|Ionic|1 Year|
+|JavaScript|5 Years|
+|CSS/SASS/PostCSS|5 Years|
+|React|3 Years|
+|TypeScript|2 Year|
+|Ionic/Angular|1 Year|
 
 
 ### Back-End
 | SKILL | TIME |
 |------|-------|
-|PHP|3 Years|
+|NodeJS|3 Years|
 |SQL|2 Years|
-|NodeJS|2 Years|
-
 
 ### Others
 | SKILL | TIME |
 |------|-------|
 |AWS|2 Years|
-|DynamoDB|1.5 Years|
-|GraphQL|1 Year|
+|DynamoDB|1.6 Years|
+|GraphQL|1.6 Year|
 |Azure DevOps|1 Year|
 
 
 ## EXPERIENCES
+
+### Full Stack Developer @ [ProcurementFlow](https://www.procurementflow.com/), Remote
+#### May 2020 - Sep 2020
+- React, TypeScript, SASS, Node, GraphQL, PostgreSQL
+
+### Full Stack Developer @ [Inter Telecom](https://www.interstar.net.br/), Brazil
+#### Nov 2019 - May 2020
+- React, TypeScript, SASS, Node, PostgreSQL.
+
 
 ### Full Stack Developer @ [RaiseHands](https://raisehands.app), Brazil 
 #### Mar 2018 – *Present*
